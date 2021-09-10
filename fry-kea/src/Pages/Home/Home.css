@@ -1,0 +1,24 @@
+.navbar {
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: #000000;
+    height: 12vh;
+}
+
+.logo {
+  width: 6%;
+  margin-left: 50px;
+}
+
+.grey {
+    color: gray;
+}
+
+.white {
+    color: white;
+}
+
+.contact-info {
+    width: 40%;
+}
